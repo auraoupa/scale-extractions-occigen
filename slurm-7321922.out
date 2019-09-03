@@ -1,0 +1,789 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:43825'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:45930'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:33653'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:40961'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:41436'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:36723'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:45577'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:44373'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:37371'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:32834'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:44636'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:41578'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:44926'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:36380'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:32973'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:39676'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:34127'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:36208'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:40879'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:45366'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:41196'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:43657'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:39093'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:39653'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:40384'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:43368'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:39529'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.221:40958'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:42091
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36983
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36241
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:42091
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36983
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36241
+distributed.worker - INFO -          dashboard at:         172.30.8.221:44304
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:38437
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36865
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36557
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:38437
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:38929
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.221:38539
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:38929
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:35020
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.8.221:44704
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:38123
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3e1dnota
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b0esz8p0
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:35020
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-f33r8g83
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:35126
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:38123
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.8.221:40088
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:35126
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36543
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-lsktusx2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.8.221:39441
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-neebprjm
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sujl9vr_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jftl72n_
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-hyvtsfwh
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:45758
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:45758
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.221:43300
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:43516
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:43516
+distributed.worker - INFO -          dashboard at:         172.30.8.221:42074
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-love4nln
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zglpd08u
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36650
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36650
+distributed.worker - INFO -          dashboard at:         172.30.8.221:35384
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:42274
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:45808
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:42274
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xrbn3f3b
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:39930
+distributed.worker - INFO -          dashboard at:         172.30.8.221:44661
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:45808
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:39930
+distributed.worker - INFO -          dashboard at:         172.30.8.221:33801
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.8.221:32986
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bl_a9a8h
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-86wii9x1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vz76m24j
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:42753
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:42753
+distributed.worker - INFO -          dashboard at:         172.30.8.221:45098
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-n_b0afrh
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:45973
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:45973
+distributed.worker - INFO -          dashboard at:         172.30.8.221:44486
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-i272i1tq
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36488
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36488
+distributed.worker - INFO -          dashboard at:         172.30.8.221:37571
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36526
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:35987
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36526
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:35987
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:34309
+distributed.worker - INFO -          dashboard at:         172.30.8.221:39885
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uqvu169q
+distributed.worker - INFO -          dashboard at:         172.30.8.221:43651
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:34309
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36678
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-gc63zl9h
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:41718
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:43671
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:39923
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-07tyupb0
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:41718
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:43671
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:39923
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ul6w7mih
+distributed.worker - INFO -          dashboard at:         172.30.8.221:46262
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36258
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -          dashboard at:         172.30.8.221:39128
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:34476
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:34476
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-dfq1095j
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.8.221:36092
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-0dlhy53v
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-p2esmty9
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:41558
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-80q8glnf
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:41558
+distributed.worker - INFO -          dashboard at:         172.30.8.221:46012
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:36493
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:36493
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1hxrf98k
+distributed.worker - INFO -          dashboard at:         172.30.8.221:38972
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:39208
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:39208
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-x9v2vima
+distributed.worker - INFO -          dashboard at:         172.30.8.221:42482
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.221:42223
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.221:42223
+distributed.worker - INFO -          dashboard at:         172.30.8.221:34472
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_eg_8dro
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3ffcocyb
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - WARNING - Heartbeat to scheduler failed
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.4:41840
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:39930
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:38123
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:42753
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:35126
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:43671
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:43516
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:38437
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:35020
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36493
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:39923
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:39208
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36488
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36241
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36983
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:45758
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:35987
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:41718
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:42274
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36526
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:34476
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:45808
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:41558
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:42223
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:45973
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:38929
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:42091
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:34309
+distributed.worker - ERROR - Timed out when connecting to scheduler 'tcp://172.30.100.4:41840'
+NoneType: None
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.221:36650
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:43825'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:44373'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:45577'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:36380'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:33653'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:44926'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:41436'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:32834'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:43368'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:39529'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:36208'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:44636'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:39653'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:39676'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:34127'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:41578'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:41196'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:45366'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:37371'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:36723'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:45930'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:32973'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:40961'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:40958'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:40879'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:39093'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:43657'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.221:40384'
+distributed.dask_worker - INFO - End worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
