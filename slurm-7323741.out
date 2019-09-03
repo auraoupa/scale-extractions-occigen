@@ -420,3 +420,118 @@ distributed.core - INFO - Starting established connection
 distributed.worker - INFO -         Registered to:   tcp://172.30.100.4:40264
 distributed.worker - INFO - -------------------------------------------------
 distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:33007
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:40871
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:34855
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:43470
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:35067
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:35585
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:35739
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:35918
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:35952
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:36444
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:36805
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:36875
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:37216
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:37356
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:43835
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:38139
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:39537
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:40228
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:40450
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:40995
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:41002
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:43896
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:44059
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:41486
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:45175
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:41509
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:42939
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.239:46290
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46075'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:36603'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:37611'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:34518'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:41860'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:35976'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:39006'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:38215'
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:35583'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:43492'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46126'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:38835'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:45920'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46733'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:42111'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:38926'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:33149'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46054'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:34812'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46028'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:34012'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:46144'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:41118'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:34270'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:45082'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:37407'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:34795'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.239:44122'
+distributed.dask_worker - INFO - End worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,

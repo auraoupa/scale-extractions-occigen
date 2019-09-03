@@ -420,3 +420,64 @@ distributed.worker - INFO - -------------------------------------------------
 distributed.worker - INFO - -------------------------------------------------
 distributed.core - INFO - Starting established connection
 distributed.core - INFO - Starting established connection
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:33245
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:33523
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:35000
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:36158
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:35591
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:35303
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:37656
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:37765
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:36118
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:38464
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:39402
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:40399
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:38198
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:41088
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:41814
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:41767
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:40593
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:41949
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:44427
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:42662
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:44678
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:44745
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:44572
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:45113
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:46295
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:45468
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:46690
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.244:46784
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.244:36011'
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.dask_worker - INFO - End worker
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
