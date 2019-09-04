@@ -28,10 +28,8 @@ J'essaie de parallèliser au max en multipliant le nombre de procs par 300 pour 
 | concaténation champs 2D eNATL60 1an  | pas testé, sûrement trèèèès long | 48  | 0  |  visu interactive nodes | jupyter notebook + dask distributed  |
 
 
-à multiplier par le nombre de variables variables 3D (u,v,w,t,s) et 2D (sst,sss,ssu,ssv,ssh) et le nombre de simulations 2
+à multiplier par le nombre de variables variables 3D (u,v,w,t,s) et 2D (sst,sss,ssu,ssv,ssh) et le nombre de simulations 2, pour obtenir un Total : 5 x ( 6 132 000 + 20 400 + 1 314 000 + 4 380 + 528 + 40 880 ) > 35 000 000h !!
 
-Total : 5 x ( 6 132 000 + 20 400 + 1 314 000 + 4 380 + 528 + 40 880 ) > 35 000 000h !!
-
-A près j'imagine qu'on ne va pas s'amuser à filtrer les 100 derniers niveaux mais peut-etre on a besoin de profils et/ou sections qui vont jusqu'au fond ?
+Après j'imagine qu'on ne va pas s'amuser à filtrer les 100 derniers niveaux mais peut-etre on a besoin de profils et/ou sections qui vont jusqu'au fond ?
 
 Il faut vraiment espérer que ça scale mieux que ça avec dask et les chunks ...
