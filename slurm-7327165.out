@@ -424,3 +424,64 @@ distributed.core - INFO - Event loop was unresponsive in Worker for 3.74s.  This
 distributed.core - INFO - Event loop was unresponsive in Worker for 3.74s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
 distributed.core - INFO - Event loop was unresponsive in Worker for 3.74s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
 distributed.utils_perf - INFO - full garbage collection released 10.84 MB from 976 reference cycles (threshold: 10.00 MB)
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:35744
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:33678
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:36124
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:36131
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:36975
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:37746
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:37815
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:37909
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:38751
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:37876
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:39744
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:40181
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:39540
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:40269
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:42031
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:43220
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:41713
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:40833
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:43548
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:43305
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:42337
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:44078
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:44559
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:44080
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:45073
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:45968
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:46436
+distributed.worker - INFO - Stopping worker at tcp://172.30.5.167:46749
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.5.167:45582'
+distributed.dask_worker - INFO - End worker
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(Dask Worker process (from Nanny), started daemon)>
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
