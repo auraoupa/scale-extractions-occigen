@@ -1,0 +1,637 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:39274'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:36327'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:38406'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:39330'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:33235'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:42276'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:39409'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:41056'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:39369'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:37195'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:36530'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:38332'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:42752'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:41982'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:34401'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:45985'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:37980'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:44152'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:33270'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:39411'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:42434'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:38532'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:40525'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:44711'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:36887'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:45425'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:42535'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.119:34618'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:46487
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:39904
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:38053
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:46803
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:33617
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:34512
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:39904
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:46487
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:38053
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:42144
+distributed.worker - INFO -          dashboard at:         172.30.6.119:44055
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:33617
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:34512
+distributed.worker - INFO -          dashboard at:         172.30.6.119:33905
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.6.119:40858
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:42144
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:46803
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.6.119:41338
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.6.119:42956
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34889
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.6.119:43405
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:36864
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:38116
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:36864
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:38116
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b8pmjoh_
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:42326
+distributed.worker - INFO -          dashboard at:         172.30.6.119:38944
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34912
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:42326
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.6.119:42304
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-gs79qz_x
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-w6dya8gc
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-imp35ay6
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3uolbew9
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zhqg39cn
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kp2gr3nt
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-k9v26hfp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5he8yawf
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ntk_g_8q
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:34265
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:34265
+distributed.worker - INFO -          dashboard at:         172.30.6.119:33826
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:43175
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:43175
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:45221
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:45221
+distributed.worker - INFO -          dashboard at:         172.30.6.119:44496
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:44010
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.6.119:36352
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:44010
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_k4b4wr7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.6.119:40819
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kvitd_no
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-mhllk08l
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-knx3h3g_
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:37799
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:37799
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:37206
+distributed.worker - INFO -          dashboard at:         172.30.6.119:44807
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:37206
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:38452
+distributed.worker - INFO -          dashboard at:         172.30.6.119:39945
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:38452
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34883
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-b4llu5uo
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-vt0v4a56
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-qt9we1zk
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:36427
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:36427
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:45154
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34208
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:45154
+distributed.worker - INFO -          dashboard at:         172.30.6.119:46515
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:36236
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2mhhc4ox
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:36236
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:38375
+distributed.worker - INFO -          dashboard at:         172.30.6.119:43034
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:38375
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sdwpffsn
+distributed.worker - INFO -          dashboard at:         172.30.6.119:44083
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-bttu9oxt
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-krqla6eg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:37467
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:37467
+distributed.worker - INFO -          dashboard at:         172.30.6.119:39567
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:45288
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:45288
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34695
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-d_5gl1yz
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-q464tuvz
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:39601
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:39601
+distributed.worker - INFO -          dashboard at:         172.30.6.119:33132
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-o5m1a7m5
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:43277
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:43277
+distributed.worker - INFO -          dashboard at:         172.30.6.119:35619
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-spzznola
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:37382
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:37382
+distributed.worker - INFO -          dashboard at:         172.30.6.119:34563
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4xuvchdr
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:46557
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.119:36162
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:46557
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.119:36162
+distributed.worker - INFO -          dashboard at:         172.30.6.119:35400
+distributed.worker - INFO -          dashboard at:         172.30.6.119:42140
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2l08nviv
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-fkw3w0a9
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53108 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53110 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53114 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53118 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52882 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52884 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53150 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52924 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53172 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52946 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53220 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52996 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53102 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52888 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53138 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52912 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53164 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52938 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52984 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53090 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53188 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52770 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52794 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52816 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52842 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52960 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53008 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52892 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53142 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52916 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53166 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52940 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52988 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53094 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53190 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52772 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52796 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52820 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52844 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52964 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53012 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53148 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52922 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53174 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52948 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53222 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52994 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53100 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53124 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52802 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52828 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52850 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52972 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53018 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53112 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52886 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53132 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52906 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53160 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52934 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52982 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53088 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53184 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52764 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52790 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52814 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52838 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52958 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53006 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53116 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52890 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53140 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52914 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53162 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52936 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52985 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53092 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53186 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52768 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52792 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52818 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52840 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52962 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53010 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53144 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52918 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53168 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52942 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52990 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53096 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53192 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52774 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52798 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52822 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52846 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52894 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52966 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53014 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52542 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53154 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52928 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53106 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53130 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53178 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52760 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53226 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52808 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52832 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52856 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53000 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53886 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53884 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53892 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53880 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53882 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53958 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53146 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52920 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53170 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52944 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53218 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52992 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53122 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52800 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52824 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52848 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52968 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53016 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53368 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53448 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53472 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54024 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53798 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54048 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53822 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54072 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53846 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53870 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53894 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53966 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53772 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53782 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53918 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54348 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54346 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54354 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54344 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54352 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53152 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52926 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53176 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53224 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53104 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53128 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52806 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52830 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52854 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:52998 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53574 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53454 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53478 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53502 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54030 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53804 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54054 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53828 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54078 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53852 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53876 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53900 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53972 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53758 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53778 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53788 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:53924 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54888 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54710 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54942 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54884 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54706 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54766 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54938 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54860 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54908 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54892 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54666 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54714 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54868 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54916 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54886 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54708 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54764 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54940 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54862 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54910 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54964 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54894 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54670 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54870 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54918 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54948 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54928 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54932 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54904 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54956 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54878 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54930 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54704 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54936 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54760 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54858 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54906 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54960 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.119:54680 remote=tcp://172.30.100.1:46491>
+slurmstepd: error: *** JOB 7329228 ON n2350 CANCELLED AT 2019-09-04T11:04:43 DUE TO TIME LIMIT ***

@@ -1,0 +1,859 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:33085'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:33249'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:39524'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:41712'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:33805'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:46138'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:46068'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:45248'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:37408'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:41788'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:42954'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:36948'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:34750'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:35534'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:38614'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:44877'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:45144'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:34126'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:33781'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:35199'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:44825'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:45147'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:40645'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:34173'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:41396'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:35633'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:34540'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.9.100:43586'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:37409
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:43577
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:44811
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:37409
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:34057
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:43577
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:34160
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:44811
+distributed.worker - INFO -          dashboard at:         172.30.9.100:38678
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:40398
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:34057
+distributed.worker - INFO -          dashboard at:         172.30.9.100:36105
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:34160
+distributed.worker - INFO -          dashboard at:         172.30.9.100:33511
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:36482
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:44772
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:40398
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:45565
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:41456
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:36482
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:42156
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:40000
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:44772
+distributed.worker - INFO -          dashboard at:         172.30.9.100:37262
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:45283
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:33567
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:33467
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:41056
+distributed.worker - INFO -          dashboard at:         172.30.9.100:43358
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:33092
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:34140
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:45525
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:34989
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:42156
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:39238
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:43889
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:43904
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:36789
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:40000
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:45283
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:43936
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:35291
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:36297
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:33567
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:36796
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:46356
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:33467
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:34664
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:41056
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:34140
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:33092
+distributed.worker - INFO -          dashboard at:         172.30.9.100:40950
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:45525
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:34989
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.9.100:38828
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:39238
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:43889
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:36789
+distributed.worker - INFO -          dashboard at:         172.30.9.100:46742
+distributed.worker - INFO -          dashboard at:         172.30.9.100:33040
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:43936
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:35291
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:36297
+distributed.worker - INFO -          dashboard at:         172.30.9.100:37395
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:46356
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:36796
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          dashboard at:         172.30.9.100:36075
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:34664
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:44262
+distributed.worker - INFO -          dashboard at:         172.30.9.100:35449
+distributed.worker - INFO -          dashboard at:         172.30.9.100:44710
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5xi9bf7e
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.9.100:42686
+distributed.worker - INFO -          Listening to:   tcp://172.30.9.100:38828
+distributed.worker - INFO -          dashboard at:         172.30.9.100:32945
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_ye8rh7v
+distributed.worker - INFO -          dashboard at:         172.30.9.100:39809
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -          dashboard at:         172.30.9.100:34997
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:41758
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-wajtcrxw
+distributed.worker - INFO -          dashboard at:         172.30.9.100:41246
+distributed.worker - INFO -          dashboard at:         172.30.9.100:44826
+distributed.worker - INFO -          dashboard at:         172.30.9.100:38004
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:36183
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-toxv1tj9
+distributed.worker - INFO -          dashboard at:         172.30.9.100:35397
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -          dashboard at:         172.30.9.100:34656
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -          dashboard at:         172.30.9.100:39205
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3r0ze13j
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-raxfgf5v
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6razjsjp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5chxgxpk
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9n8nmhp4
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5rxl7e_1
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zju1uecw
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-axx90mb7
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ssh2zb44
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-t_akcsln
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tj318ssj
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-j115ri2p
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jjo1_dvj
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ankzcqyy
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-cwq074iz
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-_f9hq6wt
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xtym7y4y
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-hhwscs04
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xd03sfd7
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-7cocvx_8
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-gnbdhbml
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-apr7secb
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4bv_gmjc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-xpkxm1ah
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:46491
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51916 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51960 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52400 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52224 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52404 remote=tcp://172.30.100.1:46491>
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2ab7c3640160>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 791, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 738, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 866, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 729, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 736, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:46491' after 10 s: connect() didn't finish in time
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52600 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52422 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52246 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52444 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52268 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52312 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52334 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52378 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52466 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52114 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52136 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52158 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52180 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52290 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52592 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52614 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52572 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52866 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52872 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52848 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52870 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52864 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52862 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52928 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52930 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52842 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52926 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51962 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51934 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52436 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52260 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52502 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52392 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52414 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52222 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52458 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52418 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52106 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52244 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52194 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52442 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52326 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52264 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52670 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52536 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52461 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52688 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52550 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52566 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52586 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52306 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52606 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52332 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52352 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52112 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52130 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52156 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52178 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52200 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52940 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52402 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52226 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52424 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52248 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52446 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52270 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52314 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52336 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52380 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52468 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52116 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52138 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52160 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52182 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52292 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52680 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52540 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52556 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52574 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52616 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52868 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52788 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51938 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52432 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52256 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52454 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52278 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52498 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52322 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52388 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52410 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52476 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52146 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52168 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52190 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52510 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52300 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52344 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52602 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52582 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52624 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:51940 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52428 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52252 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52450 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52274 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52318 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52472 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52142 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52186 remote=tcp://172.30.100.1:46491>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.9.100:52850 remote=tcp://172.30.100.1:46491>
+slurmstepd: error: *** JOB 7329226 ON n2795 CANCELLED AT 2019-09-04T11:01:43 DUE TO TIME LIMIT ***
